@@ -1,3 +1,5 @@
+Content/StarterContent/
+
 # Compiled Object files
 *.slo
 *.lo
@@ -35,6 +37,7 @@
 *.opensdf
 *.sdf
 *.sln
+
 
 # Binary Files
 Binaries/*
