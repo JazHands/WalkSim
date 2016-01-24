@@ -38,6 +38,6 @@ void AWalkSimProjectile::OnHit(AActor* OtherActor, UPrimitiveComponent* OtherCom
 	{
 		OtherComp->AddImpulseAtLocation(GetVelocity() * 100.0f, GetActorLocation());
 
-		Destroy();
+		//Destroy();
 	}
 }
